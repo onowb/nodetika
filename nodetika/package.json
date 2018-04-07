@@ -4,6 +4,14 @@
   "version": "1.0.0",
   "description": "Nodetika words out of text",
   "main": "tikatext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onowb/nodetika"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
   "dependencies": {},
   "engines": {
     "node": "*"
