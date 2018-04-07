@@ -1,0 +1,11 @@
+{
+  "author": "Haris",
+  "name": "nodetika",
+  "version": "1.0.0",
+  "description": "Nodetika words out of text",
+  "main": "tikatext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
